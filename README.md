@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with becoming a Linux System Administrator.
 - 💬 Ask me about using Ubuntu and the CLI.
 - 📫 How to reach me: silvyus_06 [at] yahoo.com
-- ⚡ Fun fact: I've been slowly advancing on these subjects alongside my full time accounting job steadily for the past three years starting Jan'2023.
+- ⚡ Fun fact: I've been slowly advancing on these subjects alongside my full time accounting job steadily for the past three years starting Jan'23.
